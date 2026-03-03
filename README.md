@@ -66,7 +66,7 @@ Password-protected archive with the complete mod pack.
 
 ## 🎮 Installation
 
-### Option 1: Auto Installer (Recommended)
+### Auto Installer
 
 1. Run `ModInstaller.exe` **as Administrator**
 2. Select your RE9 installation folder
