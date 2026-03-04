@@ -52,7 +52,6 @@ Password-protected archive with the complete mod pack.
 - `ModInstaller.exe` – Auto-installation tool
 - `mods/` – Mod files (PAK format, ready for Fluffy Manager)
 - `readme.txt` – Instructions
-- `preview/` – Screenshots (optional)
 
 ---
 
@@ -96,14 +95,6 @@ Press **INSERT** to open REFramework menu:
 | **Standard** | Natural rework based on Ashley/Eva | ✅ Available |
 | **Plus** | Slightly enhanced (planned) | 🔜 Coming |
 | **Lite** | Subtle changes (planned) | 🔜 Coming |
-
----
-
-## 📸 Preview
-
-*Screenshots available in the `preview/` folder after extraction.*
-
-The mod maintains the original artistic direction while enhancing Grace's proportions naturally .
 
 ---
 
